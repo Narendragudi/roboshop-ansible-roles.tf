@@ -1,10 +1,10 @@
 MONGODB_HOST: mongodb-dev.daws76.space
 REDIS_HOST: redis-dev.daws76.space
-CATALOGUE_HOST: catalogue-dev.daws76.space
+CATALOGUE_HOST: catalogue.app-dev.daws76.space
 MYSQL_HOST: mysql-dev.daws76.space
 RABBITMQ_HOST: rabbitmq-dev.daws76.space
-USER_HOST: user-dev.daws76.space
-CART_HOST: cart-dev.daws76.space
-SHIPPING_HOST: shipping-dev.daws76.space
-PAYMENT_HOST: payment-dev.daws76.space
-DISPATCH_HOST: dispatch-dev.daws76.space
+USER_HOST: user.app-dev.daws76.space
+CART_HOST: cart.app-dev.daws76.space
+SHIPPING_HOST: shipping.app-dev.daws76.space
+PAYMENT_HOST: payment.app-dev.daws76.space
+DISPATCH_HOST: dispatch.app-dev.daws76.space
